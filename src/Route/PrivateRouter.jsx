@@ -13,3 +13,5 @@ const Privateroute = ({children}) => {
 };
 
 export default Privateroute;
+
+// export default Privateroute;
